@@ -1,0 +1,13 @@
+.box {
+  background-color: #f95b34;
+  bottom: 0;
+  left: 0;
+	position: fixed;
+  padding-left: 150px;
+	right: 0;
+}
+*{
+  padding-left: 70px;
+  padding-right: 70px;
+  text-align: left;
+}
